@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IgorOlszewski2000
+- 👀 I’m interested in WebDev.
+- 🌱 I’m currently learning Flask.
