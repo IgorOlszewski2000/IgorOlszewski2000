@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Igor Olszewski.
-- 🌱 I’m currently learning Flask.
+- 🌱 I’m currently learning Cypress.
